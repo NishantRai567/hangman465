@@ -32,5 +32,3 @@ class Hangman:
            else:
                self.check_guess(guess)
                self.list_of_guesses.append(guess)
-test_1=Hangman(word_list=["apple","banana","orange","pineapple","mango"],num_lives=5)
-test_1.ask_for_input()
