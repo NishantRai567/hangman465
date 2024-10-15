@@ -13,6 +13,7 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 -When prompted, enter a single alphabetical letter as a guess for the word
 -When you begin you will start with 5 lives. One life will be lost each time you make an incorrect guess
 
-##License information
+## License information
+
 This project is licensed under the terms of the MIT license
 
